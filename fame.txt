@@ -1,0 +1,29 @@
+File list & where to put them
+
+src/main.jsx
+
+src/index.css
+
+src/App.jsx
+
+src/pages/Home.jsx
+
+src/pages/About.jsx
+
+src/pages/Contact.jsx
+
+src/pages/Social.jsx
+
+src/pages/Resources.jsx
+
+src/components/Header.jsx
+
+src/components/Footer.jsx
+
+src/components/Logo.jsx
+
+public/logo.png ← use your provided image (or public/assets/logo.jpg)
+
+public/visiting-card.pdf ← visiting card PDF
+
+public/business-profile.mp4 ← profile video
